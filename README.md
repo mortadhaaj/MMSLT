@@ -8,7 +8,7 @@ Follow the steps below to set up the environment and dependencies for the projec
 
 Create a new Conda environment named `mmslt` with Python version 3.8.0:
 
-`conda create -n mmslt python=3.8.0`
+`conda create -n mmslt python=3.8.6`
 
 2.  **Activate the Conda Environment**
 
