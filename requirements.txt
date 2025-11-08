@@ -34,7 +34,7 @@ exceptiongroup==1.2.2
 executing==2.0.1
 fastjsonschema==2.20.0
 filelock==3.13.1
-flash-attn==2.6.3
+flash-attn #==2.6.3
 flatbuffers==1.12
 fonttools==4.53.1
 fqdn==1.5.1
@@ -197,7 +197,7 @@ tensorflow-estimator==2.9.0
 tensorflow-io-gcs-filesystem==0.34.0
 termcolor==2.4.0
 terminado==0.18.1
-textaugment==2.0.0
+textaugment #==2.0.0
 textblob==0.18.0.post0
 Theano==1.0.5
 threadpoolctl==3.5.0
@@ -205,9 +205,9 @@ tifffile==2023.7.10
 timm==0.6.11
 tinycss2==1.3.0
 tokenizers==0.20.1
-torch==2.2.2+cu118
-torchaudio==2.2.2+cu118
-torchvision==0.17.2+cu118
+torch #==2.2.2+cu118
+torchaudio #==2.2.2+cu118
+torchvision #==0.17.2+cu118
 tornado==6.4.1
 tqdm==4.65.0
 traitlets==5.14.3
